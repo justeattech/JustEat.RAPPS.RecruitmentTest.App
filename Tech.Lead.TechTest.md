@@ -1,8 +1,8 @@
-# **Senior Developer (Restaurant Apps) - Technical Test**
+# Technical Lead (Restaurant Apps) - Technical Test
 
-Thank you for taking the time to do our technical test. It should take between 105 and 165 minutes to complete - depending on whether you attempt the optional - but highly valued - Functional Testing exercise. It consists of three parts:
+Thank you for taking the time to do our technical test. It should take between 105 and 165 minutes to complete - depending on whether you attempt the optional (but highly valued) Functional Testing exercise - and consists of three parts:
 
-* Coding - please don’t spend more than 60 minutes on this part
+* Coding- please don’t spend more than 60 minutes on this part
 
 * Functional testing [OPTIONAL] - please don’t spend more than 60 minutes on this part
 
@@ -66,7 +66,7 @@ Using Ruby & Cucumber or .NET & SpecFlow, write a functional test (both Gherkin 
 
 Describe how to run the tests.
 
-### Technical Questions - 45 minutes
+## Questions - 45 minutes
 
 1. Did you have time to complete the coding test? What would you add to your solution if you had more time?
 
@@ -84,6 +84,8 @@ Describe how to run the tests.
 
 8. Using [https://gomockingbird.com/mockingbird/](https://gomockingbird.com/mockingbird/) draw the architecture of a system you’ve been working on and you’re proud of. Describe all the moving pieces. Export to PNG and include it in the zip file.
 
-9. Provide a list of 5 technologies/frameworks/tools you could not live without.
+9. Write a list of 5 technologies/frameworks/tools you could not live without.
 
 10. Describe how web form authentication works in .NET. What are the moving pieces, try to be as detailed as possible.
+
+11. Describe the biggest challenge you had when hiring and growing your team
