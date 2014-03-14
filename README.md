@@ -18,3 +18,6 @@ Tech Lead
 [Tech Test](TechTest.md)
 /
 [Questions](Tech.Lead.Questions.md)
+
+
+Complete the Tech Test and answer the questions for the position you want to apply for and submit the result to tech.recruitment@just-eat.com
