@@ -11,9 +11,9 @@ Senior Developer
 [Questions](Senior.Developer.Questions.md)
 
 
-Tech Lead 
+Technical Lead
 
-[Job Description](http://tech.just-eat.com/jobs/tech-lead-restaurant-apps/)
+[Job Description](http://tech.just-eat.com/jobs/technical-lead-restaurant-apps/)
 /
 [Tech Test](TechTest.md)
 /
