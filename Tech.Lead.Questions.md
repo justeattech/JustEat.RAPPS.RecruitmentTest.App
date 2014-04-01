@@ -18,6 +18,6 @@
 
 9. Write a list of 5 technologies/frameworks/tools you could not live without.
 
-10. Describe how web authentication works in PHP. What are the moving pieces, try to be as detailed as possible.
+10. Describe how web authentication works in .NET. What are the moving pieces, try to be as detailed as possible.
 
 11. Describe the biggest challenge you had when hiring and growing your team
